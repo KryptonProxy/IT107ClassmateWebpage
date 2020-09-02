@@ -1,0 +1,89 @@
+* { 
+	box-sizing: border-box; 
+}
+
+body {
+	background-color: #00005d; 
+}
+
+h1{
+	font-family: 'Roboto Black', sans-serif;
+	color: #00005d;
+}
+
+h2 {
+	font-family: 'Roboto Bold', sans-serif;
+}
+
+p {
+	font-family: 'Crimson Text', serif;
+}
+
+#wrapper {
+	background-color: #b3c7e6;
+	width: 80%;
+	margin: auto;
+	min-width: 850px;
+}
+
+nav {
+	padding: 5px;
+	text-align: center;
+	font-family: 'Roboto Bold', sans-serif;
+}
+
+main {
+	background-color: #ffffff;
+	padding: 20px;
+}
+
+header {
+	background-color: #869dc7;
+	color: #00005d;
+	font-family: 'Roboto Black', sans-serif;
+	font-size: 150%;
+	padding: 10px 10px 10px 30px;
+}
+
+h2 { 
+	color: #869dc7;
+	font-family: arial, sans-serif;
+}
+
+main img { 
+	margin: 10px; 
+}
+
+#floatright {
+	float: right;
+}
+
+footer {
+	font-size: 70%;
+	text-align: center;
+	clear: right;
+	padding-bottom: 20px; 
+	background-color: #ffffff;
+	font-family: 'Roboto Thin', sans-serif;
+}
+
+nav ul {
+	list-style-type: none;
+}
+
+nav li { 
+	display: inline;
+	padding: 4px 75px;
+ }
+
+#movielist {
+	list-style: none;
+	content: "• ";
+	color: #869dc7;
+	font-family: 'Crimson Text', serif;
+}
+/* #splash {
+	width: 50vh;
+	height: 50vh;
+ Splash Page CSS Code 
+} */

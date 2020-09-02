@@ -11,12 +11,8 @@ h1{
 	color: #00005d;
 }
 
-h2 {
-	font-family: 'Roboto Bold', sans-serif;
-}
-
 p {
-	font-family: 'Crimson Text', serif;
+	font-family: 'Roboto Slab Regular', serif;
 }
 
 #wrapper {
@@ -47,7 +43,7 @@ header {
 
 h2 { 
 	color: #869dc7;
-	font-family: arial, sans-serif;
+	font-family: 'Roboto Bold', sans-serif;
 }
 
 main img { 
@@ -80,7 +76,7 @@ nav li {
 	list-style: none;
 	content: "• ";
 	color: #869dc7;
-	font-family: 'Crimson Text', serif;
+	font-family: 'Roboto Slab Light', serif;
 }
 /* #splash {
 	width: 50vh;
